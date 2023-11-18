@@ -143,7 +143,7 @@ See Fig. 4. This is an example of a sample description file. It is a ‘tsv’ f
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/Sample_description_file.PNG"
-  >
+  width=50% height=50%>
 </p>
 <p align = "center">
 Figure 4: Sample description file.
@@ -199,7 +199,7 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/Version_number_location.PNG"
-  >
+  width=50% height=50%>
 </p>
 <p align = "center">
 Figure 5: sangerFlow version number location.
