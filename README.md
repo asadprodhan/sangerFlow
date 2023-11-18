@@ -85,7 +85,7 @@ If you see the Nextflow options like Fig. 2, then the Nextflow has been installe
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/Nextflow_options.PNG"
-  >
+  width=50% height=50%>
 </p>
 <p align = "center">
 Figure 2: Nextflow options.
@@ -116,7 +116,7 @@ If you see the Singularity options like Fig. 3, then the Singularity has been in
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/Singularity_options.PNG"
-  >
+  width=50% height=50%>
 </p>
 <p align = "center">
 Figure 3: Singularity options.
