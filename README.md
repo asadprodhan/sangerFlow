@@ -191,7 +191,7 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 ```
 
 
-> Collect the VERSION-NUMBER from the sangerFlow GitHub page. It is located as shown in the red box in Fig. 5.
+> Collect the VERSION-NUMBER from the sangerFlow GitHub home page. It is located as shown in the red box in Fig. 5.
 
 
 
