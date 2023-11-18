@@ -17,7 +17,7 @@
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/sangerFlow.PNG"
-  >
+  width=50% height=50%>
 </p>
 <p align = "center">
 Figure 1: sangerFlow pipeline.
