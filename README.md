@@ -162,6 +162,10 @@ Figure 4: Sample description file.
   
 -	Transfer your Sanger amplicon sequencing data to ‘amplicon_analysis’ directory
 
+
+  > sangerFlow can be tested using its publicly avaialble test dataset (NCBI Project ID PRJNA37833, NCBI Sample ID SAMN12109156, and NCBI Run ID SRR9339436) [DOWNLOAD](https://github.com/asadprodhan/sangerFlow/tree/main/sangerFlow_testData)
+
+
   
 -	Keep your sample description tsv file in the ‘amplicon_analysis’ directory
 
