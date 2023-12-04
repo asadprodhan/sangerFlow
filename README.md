@@ -212,16 +212,18 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 Figure 5: sangerFlow version number location.
 </p>
 
-
+<br />
 
 > You can set the following thresholds for the blastn analysis using the following flags
 
 
-    -  --evalue=XX. Default is 0.1
+  --evalue=XX. Default is 0.1
 
-    -  --cpus=XX. Default is 18
 
-    -  --topHits=XX. Default is 5
+  --cpus=XX. Default is 18
+
+
+  --topHits=XX. Default is 5
 
 
 
