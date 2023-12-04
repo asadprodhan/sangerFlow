@@ -201,16 +201,6 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 > Collect the VERSION-NUMBER from the sangerFlow GitHub home page. It is located as shown in the red box in Fig. 5.
 
 
-> You can set the following thresholds for the blastn analysis using the following flags
-
-
-    - --evalue=XX. Default is 0.1
-
-    - --cpus=XX. Default is 18
-
-    - --topHits=XX. Default is 5
-
-
 
 <br />
 <p align="center">
@@ -221,6 +211,19 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 <p align = "center">
 Figure 5: sangerFlow version number location.
 </p>
+
+
+
+> You can set the following thresholds for the blastn analysis using the following flags
+
+
+    -  --evalue=XX. Default is 0.1
+
+    -  --cpus=XX. Default is 18
+
+    -  --topHits=XX. Default is 5
+
+
 
 
 ### **The End**
