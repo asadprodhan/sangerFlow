@@ -138,6 +138,9 @@ See Fig. 4. This is an example of a sample description file. It is a ‘tsv’ f
 -	Third column is the reverse (or read2) sequence file name
 
 
+- If your data files are in .seq format, then replace the fasta file extension by seq in your sample description sheet (Fig. 4). No other changes are required
+
+
 
 <br />
 <p align="center">
