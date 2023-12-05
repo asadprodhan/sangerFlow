@@ -231,4 +231,16 @@ Figure 5: sangerFlow version number location.
 
 <br />
 
+
+### **For example**
+
+
+
+```
+nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --evalue=0.05 --topHits=3 --cpus=16 --db="/path/to/your/blastn_database"
+```
+
+
+
+
 ### **The End**
