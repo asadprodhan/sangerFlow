@@ -241,6 +241,37 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --evalue=0.05 --topHits=3 
 ```
 
 
+<br />
 
+<br />
+
+
+## **Outputs**
+
+
+When the run is successfully completed, there will be three new directories (results, temp, and work) in your working directory
+
+
+### **results**
+
+
+This directory contains the blastn results. One tsv file per sample. In addition, there will be a master blastn result sheet named concatenatedHits_withHeaders.tsv. This file contains the user-defined top most blastn hits of all the samples
+
+
+### **temp**
+
+
+This directory contains all the intermediate files in case you will need to have a look at them
+
+
+### **work**
+
+
+This directory contains one sub-directory per sample. The work directory is created by Nextflow by default. You can delete it to free up space in your computer 
+
+
+<br />
+
+<br />
 
 ### **The End**
