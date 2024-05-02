@@ -10,7 +10,7 @@
 **https://asadprodhan.github.io/**
 
 
-[![License GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme)
+[![License GPL-3.0](https://img.shields.io/badge/License-GPL%20v3.0-blue.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme)
 
 
 
