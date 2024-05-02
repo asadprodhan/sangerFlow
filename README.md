@@ -7,14 +7,7 @@
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 
 
-
-![License](https://img.shields.io/badge/License-GPL%203.0.1-blue?link=https%3A%2F%2Fgithub.com%2Fasadprodhan%2FsangerFlow%3Ftab%3DGPL-3.0-1-ov-file%23readme)
-
-
-
-
-
-<img alt="Static Badge" src="https://img.shields.io/badge/License-GPL%203.0.1-blue?link=https%3A%2F%2Fgithub.com%2Fasadprodhan%2FsangerFlow%3Ftab%3DGPL-3.0-1-ov-file%23readme">
+[![License GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme)
 
 
 
