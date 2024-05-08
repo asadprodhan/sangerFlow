@@ -1,4 +1,4 @@
-# **sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pest and pathogen identification** 
+# **sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification** 
 
 
 <br />
