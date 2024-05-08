@@ -26,7 +26,7 @@ DNA barcoding is a powerful tool to identify species. It involves i) DNA or RNA 
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/sangerFlow_infograph.png"
-  width=80% height=80%>
+  width=75% height=75%>
 </p>
 <p align = "center">
 Figure 1: sangerFlow automates pest and pathogen identification using PCR Sanger sequencing data.
@@ -46,7 +46,7 @@ sangerFlow automatically analyses the forward and reverse reads from the PCR San
 <p align="center">
   <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/sangerFlow.PNG"
-  width=50% height=50%>
+  width=35% height=35%>
 </p>
 <p align = "center">
 Figure 2: sangerFlow pipeline.
