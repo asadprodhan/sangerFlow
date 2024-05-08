@@ -115,7 +115,7 @@ If you see the Nextflow options like Fig. 2, then the Nextflow has been installe
   width=50% height=50%>
 </p>
 <p align = "center">
-Figure 2: Nextflow options.
+Figure 3: Nextflow options.
 </p>
 
 
@@ -146,7 +146,7 @@ If you see the Singularity options like Fig. 3, then the Singularity has been in
   width=50% height=50%>
 </p>
 <p align = "center">
-Figure 3: Singularity options.
+Figure 4: Singularity options.
 </p>
 
 
@@ -176,7 +176,7 @@ See Fig. 4. This is an example of a sample description file. It is a ‘tsv’ f
   width=50% height=50%>
 </p>
 <p align = "center">
-Figure 4: Sample description file.
+Figure 5: Sample description file.
 </p>
 
 
@@ -236,7 +236,7 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
   width=80% height=80%>
 </p>
 <p align = "center">
-Figure 5: sangerFlow version number location.
+Figure 6: sangerFlow version number location.
 </p>
 
 <br />
