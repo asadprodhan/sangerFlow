@@ -264,7 +264,7 @@ Figure 6: sangerFlow version number location.
 
 
 ```
-nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --evalue=0.05 --topHits=3 --cpus=16 --db="/path/to/your/blastn_database"
+nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --evalue=0.05 --topHits=1 --cpus=16 --db="/path/to/your/blastn_database"
 ```
 
 
@@ -279,19 +279,43 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --evalue=0.05 --topHits=3 
 When the run is successfully completed, there will be three new directories (results, temp, and work) in your working directory
 
 
-### **results**
+<br />
 
 
-This directory contains the blastn results. One tsv file per sample. In addition, there will be a master blastn result sheet named concatenatedHits_withHeaders.tsv. This file contains the user-defined top most blastn hits of all the samples
+### **Results**
 
 
-### **temp**
+This directory contains the blastn results. One tsv file per sample. In addition, there will be a master blastn result sheet named concatenatedHits_withHeaders.tsv. This file contains the user-defined top most Blastn hits of all the samples (Fig. 7).
+
+
+<br />
+
+
+<br />
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/sangerFlow/blob/main/Master_result_sheet.PNG"
+  width=90% height=90%>
+</p>
+<p align = "center">
+Figure 7: sangerFlow master result sheet containing the user-defined top most Blastn hits of all the samples.
+</p>
+
+
+<br />
+
+
+
+### **Temp**
 
 
 This directory contains all the intermediate files in case you will need to have a look at them.
 
 
-### **work**
+<br />
+
+
+### **Work**
 
 
 This directory contains one sub-directory per sample. The work directory is created by Nextflow by default. You can delete it to free up space in your computer. 
