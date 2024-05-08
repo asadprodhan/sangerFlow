@@ -104,7 +104,7 @@ nextflow -h
 ```
 
 
-If you see the Nextflow options like Fig. 2, then the Nextflow has been installed
+If you see the Nextflow options like Fig. 3, then the Nextflow has been installed
 
 
 
@@ -136,7 +136,7 @@ singularity -h
 ```
 
 
-If you see the Singularity options like Fig. 3, then the Singularity has been installed
+If you see the Singularity options like Fig. 4, then the Singularity has been installed
 
 
 <br />
@@ -153,7 +153,7 @@ Figure 4: Singularity options.
 ### **Step 2: Prepare a sample description file**
 
 
-See Fig. 4. This is an example of a sample description file. It is a ‘tsv’ file format. 
+See Fig. 5. This is an example of a sample description file. It is a ‘tsv’ file format. 
 
 
 -	First column is an Id for the sample
@@ -165,7 +165,7 @@ See Fig. 4. This is an example of a sample description file. It is a ‘tsv’ f
 -	Third column is the reverse (or read2) sequence file name
 
 
-- If your data files are in .seq format, then replace the fasta file extension by seq in your sample description sheet (Fig. 4). No other changes are required
+- If your data files have .fa extension instead of .fasta extension, then replace the .fasta file extension by .fa in your sample description sheet (Fig. 5). No other changes are required.
 
 
 
@@ -225,7 +225,7 @@ nextflow run asadprodhan/sangerFlow -r VERSION-NUMBER --db="/path/to/your/blastn
 ```
 
 
-> Collect the VERSION-NUMBER from the sangerFlow GitHub home page. It is located as shown in the red box in Fig. 5.
+> Collect the VERSION-NUMBER from the sangerFlow GitHub home page. It is located as shown in the red box in Fig. 6.
 
 
 
@@ -288,13 +288,13 @@ This directory contains the blastn results. One tsv file per sample. In addition
 ### **temp**
 
 
-This directory contains all the intermediate files in case you will need to have a look at them
+This directory contains all the intermediate files in case you will need to have a look at them.
 
 
 ### **work**
 
 
-This directory contains one sub-directory per sample. The work directory is created by Nextflow by default. You can delete it to free up space in your computer 
+This directory contains one sub-directory per sample. The work directory is created by Nextflow by default. You can delete it to free up space in your computer. 
 
 
 <br />
