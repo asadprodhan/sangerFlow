@@ -16,8 +16,10 @@
 ## **About the sangerFlow**
 
 
-sangerFlow automatically analyses the forward and reverse reads from the Sanger amplicon sequencing data. The pipeline takes the fasta files as input and returns blastn hits i.e., species identifications for each amplicon. Therefore, the pipeline is automated and scalable.  Furthermore, the pipeline is written using the modern workflow manager, Nextflow; and Singularity containers. Therefore, it does not require software installation except Nextflow and Singularity, software subscription, or programming expertise from the end users.   
-All these features make the pipeline ideal for large-scale Sanger amplicon sequencing data analysis and user-friendly. 
+DNA barcoding is a powerful tool to identify species. It involves i) DNA or RNA extraction from the specimen, ii) performing a Polymerase Chain Reaction (PCR) targeting a DNA barcode, and iii) high-quality sequencing such as Sanger sequencing of the PCR product. The sequencing data come as forward- and reverse reads that require manually quality control, alignment, and sequence similarity analysis using web-based Blastn to identify the species. However, this manual analysis might be a limiting factor in biosecurity surveillance or diagnosis settings that requires high-throughput analysis. sangerFlow addresses this challenge by automating this entire analysis (Fig. 1). 
+
+
+<br />
 
 
 <br />
@@ -31,6 +33,13 @@ Figure 1: sangerFlow automates pest and pathogen identification using PCR Sanger
 </p>
 
 
+<br />
+
+
+sangerFlow automatically analyses the forward and reverse reads from the PCR Sanger sequencing data. The pipeline takes the fasta files as input and returns Blastn hits i.e., species identifications for each specimen (Fig. 2). Therefore, the pipeline is automated and scalable.  Furthermore, the pipeline is written using the modern workflow manager, Nextflow; and Singularity containers. Therefore, it does not require software installation except Nextflow and Singularity, software subscription, or programming expertise from the end users. All these features make the pipeline ideal for large-scale Sanger amplicon sequencing data analysis and user-friendly. 
+
+
+<br />
 
 
 <br />
@@ -40,9 +49,14 @@ Figure 1: sangerFlow automates pest and pathogen identification using PCR Sanger
   width=50% height=50%>
 </p>
 <p align = "center">
-Figure 1: sangerFlow pipeline.
+Figure 2: sangerFlow pipeline.
 </p>
 
+
+<br />
+
+
+<br />
 
 
 ## **How to use the sangerFlow**
