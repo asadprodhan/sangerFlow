@@ -23,6 +23,19 @@ All these features make the pipeline ideal for large-scale Sanger amplicon seque
 <br />
 <p align="center">
   <img 
+    src="https://github.com/asadprodhan/sangerFlow/blob/main/sangerFlow_infograph.png"
+  width=80% height=80%>
+</p>
+<p align = "center">
+Figure 1: sangerFlow automates pest and pathogen identification using PCR Sanger sequencing data.
+</p>
+
+
+
+
+<br />
+<p align="center">
+  <img 
     src="https://github.com/asadprodhan/sangerFlow/blob/main/sangerFlow.PNG"
   width=50% height=50%>
 </p>
