@@ -1,4 +1,4 @@
-# **sangerFlow, an automated, reproducible, and scalable bioinformatics pipeline for analysing Sanger amplicon sequencing data leveraging Nextflow and Singularity** 
+# **sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pest and pathogen identification** 
 
 
 <br />
@@ -13,6 +13,13 @@
 <br />
 
 
+## **About the sangerFlow**
+
+
+sangerFlow automatically analyses the forward and reverse reads from the Sanger amplicon sequencing data. The pipeline takes the fasta files as input and returns blastn hits i.e., species identifications for each amplicon. Therefore, the pipeline is automated and scalable.  Furthermore, the pipeline is written using the modern workflow manager, Nextflow; and Singularity containers. Therefore, it does not require software installation except Nextflow and Singularity, software subscription, or programming expertise from the end users.   
+All these features make the pipeline ideal for large-scale Sanger amplicon sequencing data analysis and user-friendly. 
+
+
 <br />
 <p align="center">
   <img 
@@ -23,13 +30,6 @@
 Figure 1: sangerFlow pipeline.
 </p>
 
-
-
-## **About the sangerFlow**
-
-
-sangerFlow automatically analyses the forward and reverse reads from the Sanger amplicon sequencing data. The pipeline takes the fasta files as input and returns blastn hits i.e., species identifications for each amplicon. Therefore, the pipeline is automated and scalable.  Furthermore, the pipeline is written using the modern workflow manager, Nextflow; and Singularity containers. Therefore, it does not require software installation except Nextflow and Singularity, software subscription, or programming expertise from the end users.   
-All these features make the pipeline ideal for large-scale Sanger amplicon sequencing data analysis and user-friendly. 
 
 
 ## **How to use the sangerFlow**
