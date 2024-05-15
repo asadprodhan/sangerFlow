@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Prodhan"
+  given-names: "M. Asaduzzaman"
+  orcid: "https://orcid.org/0000-0002-1320-3486"
+- family-names: "Power"
+  given-names: "Matthew"
+  orcid: "https://orcid.org/0000-0002-9009-8966"
+- family-names: "Kehoe"
+  given-names: "Monica"
+  orcid: "https://orcid.org/0000-0001-6210-4364"
+
+title: "sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification"
+version: 1
+doi: https://doi.org/10.1101/2024.05.10.593518
+date-released: '2024-05-14'
+repository-code: "https://github.com/asadprodhan/sangerFlow"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Prodhan"
+    given-names: "M. Asaduzzaman"
+    orcid: "https://orcid.org/0000-0002-1320-3486"
+  - family-names: "Power"
+    given-names: "Matthew"
+    orcid: "https://orcid.org/0000-0002-9009-8966"
+  - family-names: "Kehoe"
+    given-names: "Monica"
+    orcid: "https://orcid.org/0000-0001-6210-4364"
+  doi: "https://doi.org/10.1101/2024.05.10.593518"
+  journal: "bioRxiv"
+  title: "sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification"
+  year: 2024
