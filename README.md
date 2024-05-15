@@ -7,7 +7,8 @@
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
 
 
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme)
+[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme) [![DOI](https://img.shields.io/badge/DOI-bioRxiv-green.svg)](https://doi.org/10.1101/2024.05.10.593518) 
+
 
 
 <br />
