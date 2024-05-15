@@ -13,7 +13,7 @@ authors:
 
 title: "sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification"
 version: 1
-doi: https://doi.org/10.1101/2024.05.10.593518
+doi: 10.1101/2024.05.10.593518
 date-released: '2024-05-14'
 repository-code: "https://github.com/asadprodhan/sangerFlow"
 preferred-citation:
@@ -28,7 +28,7 @@ preferred-citation:
   - family-names: "Kehoe"
     given-names: "Monica"
     orcid: "https://orcid.org/0000-0001-6210-4364"
-  doi: "https://doi.org/10.1101/2024.05.10.593518"
+  doi: "10.1101/2024.05.10.593518"
   journal: "bioRxiv"
   title: "sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification"
   year: 2024
