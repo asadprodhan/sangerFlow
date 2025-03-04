@@ -196,6 +196,9 @@ Figure 5: Sample description file.
 ### **Step 3: Download a blastn database from NCBI**
 
 
+[How to download a blastn database from NCBI](https://github.com/asadprodhan/blastn/tree/main)
+
+
 ### **Step 4: Run sangerFlow**
 
 
