@@ -1,14 +1,25 @@
-# **sangerFlow, a Sanger sequencing-based bioinformatics pipeline for pests and pathogens identification** 
+<h1 align="center">sangerFlow, an automated bioinformatics pipeline to analyse Sanger amplicon sequencing data for pest and pathogen diagnosis</h1>
+
+
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
+
+
+<div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
+
+
+<div align="center"><b> 3 Baron-Hay Court, South Perth, WA 6151, Australia </b></div>
+
+
+<div align="center"><b> <sup>*</sup>Correspondence: Asad.Prodhan@dpird.wa.gov.au </b></div>
 
 
 <br />
 
 
-### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
-
-
-[![License GPL 3.0](https://img.shields.io/badge/License-GPL%203.0-yellow.svg)](https://github.com/asadprodhan/sangerFlow?tab=GPL-3.0-1-ov-file#readme) [![DOI](https://img.shields.io/badge/DOI-10.1101/2024.05.10.593518-green.svg)](https://doi.org/10.1101/2024.05.10.593518) 
-
+<p align="center">
+  <a href="https://github.com/asadprodhan/sangerFlow#GPL-3.0-1-ov-file"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0" style="display: inline-block;"></a>
+  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID" style="display: inline-block;"></a>
+</p>
 
 
 <br />
